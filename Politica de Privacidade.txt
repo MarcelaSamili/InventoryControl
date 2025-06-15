@@ -1,0 +1,34 @@
+Política de Privacidade para InventoryControl
+Política de Privacidade
+
+Última atualização: 15 de junho de 2025
+
+A sua privacidade é importante para nós. Esta Política de Privacidade explica como o aplicativo InventoryControl coleta, usa, protege e compartilha informações dos usuários.
+
+1. Informações que coletamos
+Informações fornecidas pelo usuário: ao usar o app, você pode fornecer dados como códigos de barras, nomes de produtos, lotes, datas de validade e outras informações necessárias para o funcionamento do app.
+
+Permissão de uso da câmera: o app utiliza a câmera do dispositivo para escanear códigos de barras. Nenhuma imagem ou vídeo é armazenada ou compartilhada.
+
+2. Uso das informações
+As informações coletadas são utilizadas exclusivamente para:
+
+Facilitar o cadastro e o gerenciamento dos produtos no inventário do usuário.
+
+Melhorar a experiência de uso do aplicativo.
+
+3. Compartilhamento de informações
+O InventoryControl não compartilha suas informações pessoais com terceiros.
+
+4. Segurança
+Adotamos medidas técnicas para proteger os dados armazenados localmente no dispositivo. Entretanto, nenhuma transmissão de dados pela internet ocorre sem o seu consentimento explícito.
+
+5. Direitos do usuário
+Você pode, a qualquer momento, excluir os dados armazenados no aplicativo, bem como revogar a permissão de uso da câmera nas configurações do dispositivo.
+
+6. Contato
+Se você tiver dúvidas ou solicitações relacionadas à privacidade, entre em contato conosco pelo e-mail: marcela.barroso10.s@gmail.com
+
+Uso da câmera
+
+Este aplicativo solicita acesso à câmera para permitir a leitura de códigos de barras, recurso essencial para o funcionamento do app. O acesso é solicitado somente durante o uso do aplicativo e não é utilizado para outras finalidades.
